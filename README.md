@@ -56,8 +56,8 @@ Building systems for creators and businesses.
 ## 🌐 Connect
 
 <p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" height="20" alt="Discord" />Discord</a>
-  <a href="https://www.instagram.com/ypedro_mohr/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" height="20" alt="Instagram" />Instagram</a>
-  <a href="https://www.linkedin.com/in/pedro-mohr-0bb2512b9/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" height="20" alt="LinkedIn" />Linkedin</a>
-  <a href="https://x.com/ImPedroMohr"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Twitter.svg" height="20" alt="Twitter" />Twitter</a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" height="30" alt="Discord" /></a>
+  <a href="https://www.instagram.com/ypedro_mohr/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" height="30" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/pedro-mohr-0bb2512b9/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" height="30" alt="LinkedIn" /></a>
+  <a href="https://x.com/ImPedroMohr"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Twitter.svg" height="30" alt="Twitter" /></a>
 </p>
